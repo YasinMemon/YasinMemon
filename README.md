@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/YasinMemon](https://github.com/YasinMemon)
+- 👨‍💻 All of my projects are available at https://yasinmemon.in/
 
 - 💬 Ask me about **JavaScript,Rdbms,C**
 
